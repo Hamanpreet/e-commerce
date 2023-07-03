@@ -1,15 +1,16 @@
-#hero {
+#hero div {
   background-image: url("/img/model.png.jpg");
   height: 90vh;
   width:100%;
   background-size:cover;
-  background-position: top 25% right 0;
-  padding: 0 80px;display:flex;
-  align-items:flex-start;
+  background-position: top 25% right 0px;
+  padding: 80px 20px 80px 0;
+  display:flex;
+  align-items:flex-end;
   flex-direction:column;
   justify-content:center;
+  background-repeat:no-repeat;
 }
-
 #hero h4 {
   padding-bottom:15px;
 }
@@ -23,7 +24,7 @@
   background-color:transparent;
   color:#088178;
   border:0;
-  padding:14px 80px 14px 65px;
+  padding:16px 80px 14px 65px;
   background-repeat:no-repeat;
   cursor:pointer;
   font-weight:700;
