@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo_40</title>
+    <defs>
+        <linearGradient x1="100%" y1="55.0774572%" x2="0%" y2="44.9225428%" id="linearGradient-1">
+            <stop stop-color="#FBD07A" offset="0%"></stop>
+            <stop stop-color="#F55B3F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="57.5238416%" x2="0%" y2="42.4761584%" id="linearGradient-2">
+            <stop stop-color="#90A1FF" offset="0%"></stop>
+            <stop stop-color="#3450FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="logo_40" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M-7.9453125,13.9453125 L17.9453125,13.9453125 C24.6331356,13.9453125 30.0546875,19.3668644 30.0546875,26.0546875 L30.0546875,26.0546875 L30.0546875,26.0546875 L4.1640625,26.0546875 C-2.52376064,26.0546875 -7.9453125,20.6331356 -7.9453125,13.9453125 L-7.9453125,13.9453125 L-7.9453125,13.9453125 Z" id="矩形" fill="url(#linearGradient-1)" transform="translate(11.054688, 20.000000) scale(-1, 1) rotate(-90.000000) translate(-11.054688, -20.000000) "></path>
+        <path d="M5,26.9746835 L23.9746835,26.9746835 C30.6160824,26.9746835 36,32.3586011 36,39 L36,39 L36,39 L17.0253165,39 C10.3839176,39 5,33.6160824 5,26.9746835 L5,26.9746835 L5,26.9746835 Z" id="矩形" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>

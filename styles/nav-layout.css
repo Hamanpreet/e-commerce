@@ -61,6 +61,18 @@ button.normal {
   transition:0.2s;
 }
 
+button.white {
+  font-size:13px;
+  font-weight:600;
+  padding: 11px 18px;
+  color:#fff;
+  background-color: transparent;
+  cursor: pointer;
+  border:1px solid white;
+  outline:none;
+  transition:0.2s;
+}
+
 body {
   width: 100%;
 }
@@ -70,12 +82,23 @@ body {
   align-items:center;
   justify-content:space-between;
   padding: 20px 80px;
-  background: #E3E6F3;
+  background: white;
   box-shadow: 0 5px 15px rgba(0,0,255,0.06);
   z-index:999;
   position:sticky;
   top:0;
   left:0;
+}
+
+.header-left {
+  display:flex;
+}
+
+.header-left p {
+  color:#088178;
+  font-weight: bolder;
+  font-size:x-large;
+  font-family:cursive;
 }
 
 #navbar {
