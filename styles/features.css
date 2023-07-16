@@ -73,3 +73,35 @@
   right:10px;
 }
 
+#bannner {
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url("../img/banner/b2.jpg");
+  width:100%;
+  height:40vh;
+  background-size: cover;
+  background-position: center;
+}
+
+#bannner h4 {
+  color: white;
+  font-size:16px;
+}
+
+#bannner h2 {
+  color:white;
+  font-size:30px;
+  padding:10px 0;
+}
+
+#bannner h2 span {
+  color:red;
+}
+
+#bannner:hover {
+  background-color: #088178;
+  color:#fff;
+}
