@@ -1,5 +1,5 @@
 #hero div {
-  background-image: url("/img/model.png.jpg");
+  background-image: url("../img/model.jpg");
   height: 90vh;
   width:100%;
   background-size:cover;
@@ -20,7 +20,7 @@
 }
 
 #hero button {
-  background-image: url("/img/button.png");
+  background-image: url("../img/button.png");
   background-color:transparent;
   color:#088178;
   border:0;
