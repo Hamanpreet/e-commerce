@@ -1,6 +1,6 @@
 # FashionIQ Website
 
-Welcome to our E-Commerce Front-End Website! This project showcases an elegant and responsive e-commerce website built using HTML, CSS, and JavaScript. The website provides a seamless user experience and adapts beautifully to different devices and screen sizes.
+Welcome to my FashionIQ Website! This project showcases an elegant and responsive e-commerce website built using HTML, CSS, and JavaScript. The website provides a seamless user experience and adapts beautifully to different devices and screen sizes.
 
 ## Features
 
@@ -13,7 +13,11 @@ Welcome to our E-Commerce Front-End Website! This project showcases an elegant a
 ## Final Product
 
 ![Main page](img/Screenshot%20(210).png)
+
+
 ![Main page](img/Screenshot%20(212).png)
+
+
 ![Main page](img/Screenshot%20(211).png)
 
 
