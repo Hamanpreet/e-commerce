@@ -11,13 +11,13 @@ Welcome to my FashionIQ Website! This project showcases an elegant and responsiv
 - Product Details: Get detailed information about each product, including images, descriptions, specifications, and customer reviews.
 
 ## Final Product
-Main Page
+Main Page:
 ![Main page](img/Screenshot%20(210).png)
 
-Featured Products
+Featured Products:
 ![Main page](img/Screenshot%20(212).png)
 
-Footer Section
+Footer Section:
 ![Main page](img/Screenshot%20(211).png)
 
 
